@@ -4,7 +4,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 10px;
 }
 
 #rodape{
@@ -58,11 +57,6 @@ body, textarea{
     flex-direction: column;
     background-color: white;
     width: 700px;
-}
-
-.form-box,title{
-    padding: 24px 32px;
-    font-size: 24px;
 }
 
 .form-box,form{
